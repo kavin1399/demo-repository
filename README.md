@@ -1,2 +1,3 @@
 # demo-repository
-demo
+demo this is for learning purpose only
+
